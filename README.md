@@ -23,13 +23,12 @@ I'm Ian, an engineering student from Brazil. I have interest in machine learning
 
 ## 📌 Pinned Repositories
 
-<br>
-
+<br>  
 <a href="https://github.com/ianptkcs/onepiecewallpapers">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ianptkcs&repo=onepiecewallpapers&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ianptkcs&repo=onepiecewallpapers&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0F172A" />
 </a>
 <a href="https://github.com/ianptkcs/portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ianptkcs&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ianptkcs&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0F172A" />
 </a>
 
 <br>
@@ -42,11 +41,11 @@ I'm Ian, an engineering student from Brazil. I have interest in machine learning
 <br>
 
 <a href="https://github.com/ianptkcs">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianptkcs&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianptkcs&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0F172A" />
 </a>
 
 <a href="https://github.com/ianptkcs">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ian's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=0F172A" alt="Ian's GitHub Stats" />
 </a>
 
 <br>

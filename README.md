@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hey there 👋
 
-I'm Ian, an engineering student from Brazil. I have interest in machine learning and fullstack development.
+I'm Ian, a full stack developer from Brazil. I have interest in machine learning and fullstack development.
 
 ## 📌 Pinned Repositories
 

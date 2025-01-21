@@ -24,7 +24,7 @@ I'm Ian, an engineering student from Brazil. I have interest in machine learning
 ## 📌 Pinned Repositories
 
 <br>  
-<a href="https://github.com/ianptkcs/onepiecewallpapers">
+<a href="https://github.com/ianptkcs/lets-dice">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ianptkcs&repo=onepiecewallpapers&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0F172A" />
 </a>
 <a href="https://github.com/ianptkcs/portfolio">

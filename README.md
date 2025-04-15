@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ianptkcs" /> </p>
 
-- 🔭 I’m currently working on [Let's Dice](https://letsdice.vercel.app/)
+- 🔭 I’m currently developing [Let's Dice](https://letsdice.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js + Prisma**
+- 🌱 I’m currently learning **Next.js, Prisma and Drizzle!** *(looking forward to see Deno + Fresh)*
+
+- 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ianptkcs-projects.vercel.app/](https://portfolio-ianptkcs-projects.vercel.app/)
 

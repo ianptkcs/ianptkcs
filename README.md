@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently developing [Let's Dice](https://letsdice.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, Prisma and Drizzle!** *(looking forward to see Deno + Fresh)*
+- 🌱 I’m currently learning **Svelte + Drizzle + Supabase** *(looking forward to see Solid.js, Phoenix and more!)*
 
 - 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br)
 

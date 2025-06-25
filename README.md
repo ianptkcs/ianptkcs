@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ianptkcs" /> </p>
 
-- 🔭 I’m currently developing [Let's Dice](https://letsdice.vercel.app/)
+- 🔭 I’m currently developing **Redlib**
 
-- 🌱 I’m currently learning **Svelte + Drizzle + Supabase** *(looking forward to see Solid.js, Phoenix and more!)*
+- 🌱 I’m currently learning **SolidStart + Drizzle, Phoenix and Turso!** *(looking forward to see Astro, ElysiaJS, Hono, Fresh and more!)*
 
 - 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br)
 

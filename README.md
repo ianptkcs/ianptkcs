@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ianptkcs" /> </p>
 
-- 🔭 I’m currently developing **Redlib**
+- 🔭 I’m currently developing **Ensino Camarada**
 
 - 🌱 I’m currently learning **SolidStart + Drizzle, Phoenix and Turso!** *(looking forward to see Astro, ElysiaJS, Hono, Fresh and more!)*
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ianptkcs@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-ianptkcs-projects.vercel.app/cv](https://portfolio-ianptkcs-projects.vercel.app/cv)
+- 📄 Know about my experiences [portfolio/cv](https://portfolio-ianptkcs-projects.vercel.app/cv-dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

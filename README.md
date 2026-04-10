@@ -9,9 +9,9 @@
 
 - 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br)
 
-- 📫 How to reach me **ianptkcs@gmail.com**
+- 📫 How to reach me **ianptkcs@proton.me**
 
-- 📄 Know about my experiences [portfolio/cv](https://portfolio-ianptkcs-projects.vercel.app/cv-dev)
+- 📄 Know more about me [portfolio/cv](https://portfolio-1vz.pages.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

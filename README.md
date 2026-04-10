@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ianptkcs" /> </p>
 
-- 🔭 I’m currently developing **Ensino Camarada**
+- 🔭 I’m currently developing [**C.E.L.U.L.A.**](https://celula.gigalixirapp.com/)
 
-- 🌱 I’m currently learning **SolidStart + Drizzle, Phoenix and Turso!** *(looking forward to see Astro, ElysiaJS, Hono, Fresh and more!)*
+- 🌱 I’m currently learning **Phoenix!**
 
 - 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ianptkcs-projects.vercel.app/](https://portfolio-ianptkcs-projects.vercel.app/)
 
 - 📫 How to reach me **ianptkcs@gmail.com**
 

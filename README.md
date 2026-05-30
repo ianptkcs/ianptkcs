@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ianptkcs" /> </p>
 
-- 🔭 I’m currently developing [**C.E.L.U.L.A.**](https://celula.gigalixirapp.com/)
-
 - 🌱 I’m currently learning **Phoenix!**
 
-- 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br)
+- 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br) and with **Svelte** at [WIV](https://wiv.com.br/)
 
 - 📫 How to reach me **ianptkcs@proton.me**
 
-- 📄 Know more about me [portfolio/cv](https://portfolio-1vz.pages.dev/)
+- 📄 Know more about me with my [portfolio](https://portfolio-1vz.pages.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

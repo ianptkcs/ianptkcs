@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ianptkcs" /> </p>
 
-- 🌱 I’m currently learning **Phoenix!**
-
 - 💻 I'm currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br) and with **Svelte** at [WIV](https://wiv.com.br/)
 
 - 📫 How to reach me **ianptkcs@proton.me**

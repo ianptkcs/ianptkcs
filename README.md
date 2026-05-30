@@ -20,23 +20,22 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | TypeScript, JavaScript, Svelte, Angular, React, Next.js, TailwindCSS, Sass |
-| **Backend & DB** | Python, Django, Node.js, PostgreSQL, Firebase |
+| **Backend, Runtimes & DB** | Python, Django, Node.js, Bun, PostgreSQL, Firebase |
 | **Tools & OS** | Linux (Ubuntu / Wayland), Git, Typst |
 
 <p align="left">
-  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>&nbsp;
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-  <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-  <!-- System -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 </p>
 
@@ -44,11 +43,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianptkcs&show_icons=true&locale=en&layout=compact&theme=dark" alt="ianptkcs Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&locale=en&theme=dark" alt="ianptkcs Stats" />
-</p>
+[![ianptkcs Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianptkcs&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ianptkcs Stats](https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&locale=en&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

@@ -1,59 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ian Soares</h1>
-<h3 align="center">A passionate Fullstack Developer from Brazil.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianptkcs" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=210&section=header&text=Hi,%20I'm%20Ian%20Soares%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20from%20Brazil&descAlignY=55&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Angular+%2B+Django+%40+Ensino+%C3%81gil;Svelte+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=2a5298&style=flat-square" alt="ianptkcs" />
+
+</div>
 
 ---
 
 ### 💻 About Me
 
-- 🚀 Currently working with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br) and leveraging **Svelte** at [WIV](https://wiv.com.br/).
-- 🐧 **Environment:** Enthusiast of Linux-based systems (**Ubuntu**), operating with modern window management/compositors (**Niri/Wayland**) and next-gen typesetting tools (**Typst**).
-- 🧮 **Beyond Code:** Deeply interested in academic mathematics, logic, and probability modeling. I love applying structural and mathematical concepts to solve real-world system challenges.
+- 🚀 Currently building with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br) and **Svelte** at [WIV](https://wiv.com.br/)
+- 🐧 Daily driver: **Linux (Ubuntu)** on **Niri/Wayland**, typesetting with **Typst**
+- 🧮 Beyond code: academic mathematics, logic and probability modeling — I like applying structural/mathematical thinking to real-world systems
+- 🛠️ Building personal tools on the side: TUI dashboards and small automation utilities for my own workflow
+- 📫 Reach me at **ianptkcs@proton.me**
 
 ---
 
 ### 🛠️ Languages & Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | TypeScript, JavaScript, Svelte, Angular, React, Next.js, TailwindCSS, Sass |
-| **Backend, Runtimes & DB** | Python, Django, Node.js, Bun, PostgreSQL, Firebase |
-| **Tools & OS** | Linux (Ubuntu / Wayland), Git, Typst |
+<div align="center">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>&nbsp;
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,svelte,angular,react,nextjs,tailwind,sass&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=py,django,nodejs,bun,postgres,firebase,linux,git&perline=8" />
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-[![ianptkcs Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianptkcs&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![ianptkcs Stats](https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&locale=en&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=10" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianptkcs&layout=compact&locale=en&theme=dark&hide_border=true&border_radius=10" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ianptkcs&theme=dark&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ianptkcs&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
+</div>
 
 ---
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a href="mailto:ianptkcs@proton.me"><img src="https://img.shields.io/badge/Email-ianptkcs%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ianptkcs" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ianptkcs-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/ianptkcs" target="blank"><img src="https://img.shields.io/badge/Instagram-ianptkcs-pink?style=flat-square&logo=instagram" alt="Instagram" /></a>
-  <a href="https://portfolio-1vz.pages.dev/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-brightgreen?style=flat-square" alt="Portfolio" /></a>
+<p align="center">
+  <a href="mailto:ianptkcs@proton.me"><img src="https://img.shields.io/badge/Email-ianptkcs%40proton.me-2a5298?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ianptkcs-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/Instagram-ianptkcs-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://portfolio-1vz.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>

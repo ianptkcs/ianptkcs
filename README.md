@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=210&section=header&text=Hi,%20I'm%20Ian%20Soares%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20from%20Brazil&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Angular+%2B+Django+%40+Ensino+%C3%81gil;Svelte+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=Angular+%2B+Django+%2B+FastAPI+%40+Ensino+%C3%81gil;SvelteKit+%2B+Node%2FHono+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=2a5298&style=flat-square" alt="ianptkcs" />
 

@@ -12,11 +12,38 @@
 
 ### 💻 About Me
 
-- 🚀 Currently building with **Angular + Django** at [Ensino Ágil](https://ensinoagil.com.br) and **Svelte** at [WIV](https://wiv.com.br/)
 - 🐧 Daily driver: **Linux (Ubuntu)** on **Niri/Wayland**, typesetting with **Typst**
 - 🧮 Beyond code: academic mathematics, logic and probability modeling — I like applying structural/mathematical thinking to real-world systems
+- 🎲 Also deep into tabletop RPG design — building rule systems and the tooling to typeset/manage them
 - 🛠️ Building personal tools on the side: TUI dashboards and small automation utilities for my own workflow
 - 📫 Reach me at **ianptkcs@proton.me**
+
+---
+
+### 💼 Experience
+
+**[Ensino Ágil](https://ensinoagil.com.br)** — ed-tech platform (exams, question banks, student PWA)
+- Full-stack: Angular/TypeScript frontend + Django backend, multi-tenant architecture, Firebase
+- Checkout & subscription flows, including a dedicated FastAPI/PostgreSQL/Redis microservice with payment gateway integration
+- Auth/role-permission systems and native Android/iOS app packaging (WebView shells) for white-label clients
+
+**[WIV](https://wiv.com.br/)** — Blip, a conversational/chatbot platform
+- Plugins integrating the platform with third-party CRM & marketing tools, plus internal browser extensions
+- Maintain an SDK (pnpm monorepo) including an MCP server package for AI-agent tooling
+- Built chat-commerce (SvelteKit + Hono/Drizzle) and app-marketplace (SvelteKit + Hono) products for the platform
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [ndrc](https://github.com/ianptkcs/ndrc) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
+| [djobs](https://github.com/ianptkcs/djobs) | Go · Bubbletea | TUI to browse/manage jobs scheduled as systemd user timers |
+| [ccdi](https://github.com/ianptkcs/ccdi) | Go · Bubbletea | TUI to browse local repo status: git health, WIP, unpushed/stale work |
+| [dna](https://github.com/ianptkcs/dna) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
+
+> 🎲 **Currently building (hobby):** *Cogu* — a Typst-typeset tabletop RPG rulebook system with custom class archetypes and a rules engine, plus a companion web platform for character/campaign management. Private for now — link coming once it's further along.
 
 ---
 

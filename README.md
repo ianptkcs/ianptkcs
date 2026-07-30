@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=210&section=header&text=Hi,%20I'm%20Ian%20Soares%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20from%20Brazil&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:CC3333&height=210&section=header&text=Hi,%20I'm%20Ian%20Soares%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20from%20Brazil&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=Angular+%2B+Django+%2B+FastAPI+%40+Ensino+%C3%81gil;SvelteKit+%2B+Node%2FHono+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=CC3333&center=true&vCenter=true&width=700&lines=Angular+%2B+Django+%2B+FastAPI+%40+Ensino+%C3%81gil;SvelteKit+%2B+Node%2FHono+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=2a5298&style=flat-square" alt="ianptkcs" />
+<img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=cc3333&style=flat-square" alt="ianptkcs" />
 
 </div>
 
@@ -63,10 +63,10 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ianptkcs&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=10" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianptkcs&layout=compact&locale=en&theme=dark&hide_border=true&border_radius=10" />
+<img height="165em" src="./profile/stats.svg" />
+<img height="165em" src="./profile/top-langs.svg" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ianptkcs&theme=dark&hide_border=true&border_radius=10" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ianptkcs&hide_border=true&border_radius=10&background=0D1117&ring=CC3333&fire=CC3333&currStreakNum=FFFFFF&sideNums=CC3333&currStreakLabel=CC3333&sideLabels=C9D1D9&dates=C9D1D9&border=CC3333" />
 
 </div>
 
@@ -75,7 +75,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ianptkcs&theme=dracula&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
+<img src="./profile/trophy.svg" />
 </div>
 
 ---
@@ -83,10 +83,10 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:ianptkcs@proton.me"><img src="https://img.shields.io/badge/Email-ianptkcs%40proton.me-2a5298?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ianptkcs@proton.me"><img src="https://img.shields.io/badge/Email-ianptkcs%40proton.me-cc3333?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ianptkcs-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/Instagram-ianptkcs-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://portfolio-1vz.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-1vz.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-cc3333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:CC3333&height=100&section=footer" width="100%"/>

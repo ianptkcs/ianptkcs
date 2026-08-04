@@ -39,15 +39,15 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [ndrc](https://github.com/ianptkcs/ndrc) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
+| [tabelacal](https://github.com/TabelaDev/tabelacal) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
 | [djobs](https://github.com/ianptkcs/djobs) | Go · Bubbletea | TUI to browse/manage jobs scheduled as systemd user timers |
 | [tabelaradar](https://github.com/TabelaDev/tabelaradar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unpushed/stale work, missing remotes |
 | [tabelakanban](https://github.com/TabelaDev/tabelakanban) | Go · Bubbletea | Kanban TUI over plain markdown files — each card is a .md, each column a folder |
-| [dna](https://github.com/ianptkcs/dna) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
+| [tabelaos](https://github.com/TabelaDev/tabelaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
 
 > 🎲 **Currently building (hobby):** *Cogu* — a Typst-typeset tabletop RPG rulebook system with custom class archetypes and a rules engine, plus a companion web platform for character/campaign management. Private for now — link coming once it's further along.
 
-> 🏢 **TabelaDev** ([github.com/TabelaDev](https://github.com/TabelaDev)) is my open-source org — it hosts my Bubble Tea TUIs ([tabelaradar](https://github.com/TabelaDev/tabelaradar), [tabelakanban](https://github.com/TabelaDev/tabelakanban)), the shared TUI library [tabelatuiui](https://github.com/TabelaDev/tabelatuiui) that powers them, and the scaffolding CLI [tabelascaffold](https://github.com/TabelaDev/tabelascaffold), plus a family of personal tools ([tabelacal](https://github.com/TabelaDev/tabelacal), [tabelaedu](https://github.com/TabelaDev/tabelaedu), [tabelafin](https://github.com/TabelaDev/tabelafin), [tabelaos](https://github.com/TabelaDev/tabelaos), [tabelarpgdk](https://github.com/TabelaDev/tabelarpgdk)).
+> 🏢 **TabelaDev** ([github.com/TabelaDev](https://github.com/TabelaDev)) is my open-source org — it hosts my Bubble Tea TUIs ([tabelaradar](https://github.com/TabelaDev/tabelaradar), [tabelakanban](https://github.com/TabelaDev/tabelakanban)), the shared TUI library [tabelatuiui](https://github.com/TabelaDev/tabelatuiui) that powers them, the scaffolding CLI [tabelascaffold](https://github.com/TabelaDev/tabelascaffold), and the rest of the family: [tabelacal](https://github.com/TabelaDev/tabelacal) (formerly ndrc), [tabelaos](https://github.com/TabelaDev/tabelaos) (formerly dna), [tabelaedu](https://github.com/TabelaDev/tabelaedu), [tabelafin](https://github.com/TabelaDev/tabelafin) and [tabelarpgdk](https://github.com/TabelaDev/tabelarpgdk).
 
 ---
 

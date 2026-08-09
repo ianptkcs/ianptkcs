@@ -17,7 +17,7 @@
 - 🎲 Also deep into tabletop RPG design — building rule systems and the tooling to typeset/manage them
 - 🛠️ Building personal tools on the side: TUI dashboards and small automation utilities for my own workflow
 - 🏢 Most of my Go/Bubble Tea open-source work lives under the **TabelaDev** org — [github.com/TabelaDev](https://github.com/TabelaDev)
-- 📫 Reach me at **ianptkcs@proton.me**
+- 📫 Reach me at **ianptkcs@gmail.com**
 
 ---
 
@@ -40,14 +40,19 @@
 | Project | Stack | What it does |
 |---|---|---|
 | [tabelacal](https://github.com/TabelaDev/tabelacal) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
-| [djobs](https://github.com/ianptkcs/djobs) | Go · Bubbletea | TUI to browse/manage jobs scheduled as systemd user timers |
-| [tabelaradar](https://github.com/TabelaDev/tabelaradar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unpushed/stale work, missing remotes |
+| [tabelawebui](https://github.com/TabelaDev/tabelawebui) | Svelte 5 · TypeScript | Shared design system (Catppuccin) + component library for my web apps |
+| [tabelatuiui](https://github.com/TabelaDev/tabelatuiui) | Go · Bubbletea | Shared chrome, layout helpers and the `ipc` convention powering my TUIs |
+| [Dank Jobs](https://github.com/ianptkcs/dankjobs) | Go · Bubbletea | TUI to browse/manage jobs scheduled as systemd user timers |
+| [tabelaradar](https://github.com/TabelaDev/tabelaradar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
 | [tabelakanban](https://github.com/TabelaDev/tabelakanban) | Go · Bubbletea | Kanban TUI over plain markdown files — each card is a .md, each column a folder |
 | [tabelaos](https://github.com/TabelaDev/tabelaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
+| [tabelascaffold](https://github.com/TabelaDev/tabelascaffold) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
+| [C-MAPSS RUL](https://github.com/ianptkcs/cmapss-rul) | Python · scikit-learn | Remaining Useful Life prediction for NASA C-MAPSS turbofan engines (Random Forest baseline) |
+| [CPDQ ENEM](https://github.com/ianptkcs/cpdq) | Python · Typst | ENEM math analysis (2018–2025) + didactic-material generator for a prep entrance-exam course |
 
-> 🎲 **Currently building (hobby):** *Cogu* — a Typst-typeset tabletop RPG rulebook system with custom class archetypes and a rules engine, plus a companion web platform for character/campaign management. Private for now — link coming once it's further along.
+> 🎲 **Currently building (hobby):** the *TabelaRPGDK* tabletop RPG — a Typst-typeset rulebook system with custom class archetypes, a rules engine, and a companion web platform for character/campaign management.
 
-> 🏢 **TabelaDev** ([github.com/TabelaDev](https://github.com/TabelaDev)) is my open-source org — it hosts my Bubble Tea TUIs ([tabelaradar](https://github.com/TabelaDev/tabelaradar), [tabelakanban](https://github.com/TabelaDev/tabelakanban)), the shared TUI library [tabelatuiui](https://github.com/TabelaDev/tabelatuiui) that powers them, the scaffolding CLI [tabelascaffold](https://github.com/TabelaDev/tabelascaffold), and the rest of the family: [tabelacal](https://github.com/TabelaDev/tabelacal) (formerly ndrc), [tabelaos](https://github.com/TabelaDev/tabelaos) (formerly dna), [tabelaedu](https://github.com/TabelaDev/tabelaedu), [tabelafin](https://github.com/TabelaDev/tabelafin) and [tabelarpgdk](https://github.com/TabelaDev/tabelarpgdk).
+> 🏢 **TabelaDev** ([github.com/TabelaDev](https://github.com/TabelaDev)) is my open-source org — it hosts the shared web design system [tabelawebui](https://github.com/TabelaDev/tabelawebui), the Bubble Tea TUI library [tabelatuiui](https://github.com/TabelaDev/tabelatuiui) and the scaffolding CLI [tabelascaffold](https://github.com/TabelaDev/tabelascaffold) that agree on a common structure, plus the family: [tabelaradar](https://github.com/TabelaDev/tabelaradar), [tabelakanban](https://github.com/TabelaDev/tabelakanban), [tabelacal](https://github.com/TabelaDev/tabelacal), [tabelaos](https://github.com/TabelaDev/tabelaos), [tabelaedu](https://github.com/TabelaDev/tabelaedu), [tabelafin](https://github.com/TabelaDev/tabelafin) and [tabelarpgdk](https://github.com/TabelaDev/tabelarpgdk).
 
 ---
 
@@ -87,7 +92,7 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:ianptkcs@proton.me"><img src="https://img.shields.io/badge/Email-ianptkcs%40proton.me-cc3333?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ianptkcs@gmail.com"><img src="https://img.shields.io/badge/Email-ianptkcs%40gmail.com-cc3333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ianptkcs-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/Instagram-ianptkcs-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://portfolio-1vz.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-cc3333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>

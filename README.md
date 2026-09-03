@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,svelte,angular,react,nextjs,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,svelte,angular,react,nextjs,tailwind,nodejs,bun&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=py,django,go,nodejs,bun,postgres,firebase,cloudflare,linux,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,django,go,postgres,firebase,cloudflare,linux,git&perline=8" />
 
 </div>
 

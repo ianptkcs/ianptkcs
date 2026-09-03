@@ -12,20 +12,18 @@
 
 ### 💻 About Me
 
-- 🐧 Daily driver: **Linux (Ubuntu)** on **Niri/Wayland**, typesetting with **Typst**
-- 🧮 Beyond code: academic mathematics, logic and probability modeling - I like applying structural/mathematical thinking to real-world systems
-- 🎲 Also deep into tabletop RPG design - building rule systems and the tooling to typeset/manage them
+- 🎲 Deep into tabletop RPG design - building rule systems (Nimble-based) and the Typst tooling to typeset/manage them, plus a companion web platform
 - 🛠️ Building personal tools on the side: TUI dashboards and small automation utilities for my own workflow
-- 🏢 Most of my Go/Bubble Tea open-source work lives under the **TAbelhaDev** org - [github.com/TAbelhaDev](https://github.com/TAbelhaDev)
+- 📚 Volunteer math teacher at **Cursinho Popular Dom Quixote (CPDQ)** - also maintain some of the course's own tooling
 - 📫 Reach me at **ianptkcs@gmail.com**
 
 ---
 
 ### 🏢 Organizations
 
-**[TAbelhaDev](https://github.com/TAbelhaDev)** - My open-source org. It hosts the shared web design system [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui), the Bubble Tea TUI library [tabelhatuiui](https://github.com/TAbelhaDev/tabelhatuiui) and the scaffolding CLI [tabelhascaffold](https://github.com/TAbelhaDev/tabelhascaffold) that agree on a common structure, plus the family: [tabelharadar](https://github.com/TAbelhaDev/tabelharadar), [tabelhakanban](https://github.com/TAbelhaDev/tabelhakanban), [tabelhacal](https://github.com/TAbelhaDev/tabelhacal), [tabelhaos](https://github.com/TAbelhaDev/tabelhaos), [tabelhaedu](https://github.com/TAbelhaDev/tabelhaedu), [tabelhafin](https://github.com/TAbelhaDev/tabelhafin) and [tabelhargdk](https://github.com/TAbelhaDev/tabelhargdk).
+**[TAbelhaDev](https://github.com/TAbelhaDev)** - my open-source org: personal tools and apps that share a common web design system and a set of Bubble Tea TUI conventions (see Featured Projects below for what's actually in it).
 
-**[CNPq](https://github.com/cnpq)** - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico. Contributing to open-source scientific computing and research tooling.
+**[CPDQ](https://github.com/CPDQ)** - Cursinho Popular Dom Quixote, a free university-entrance prep course where I volunteer as a math teacher. I also maintain the course's [material](https://github.com/CPDQ/material) repo (see Featured Projects below).
 
 ---
 
@@ -50,13 +48,13 @@
 | [tabelhacal](https://github.com/TAbelhaDev/tabelhacal) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
 | [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui) | Svelte 5 · TypeScript | Shared design system (Catppuccin) + component library for my web apps |
 | [tabelhatuiui](https://github.com/TAbelhaDev/tabelhatuiui) | Go · Bubbletea | Shared chrome, layout helpers and the `ipc` convention powering my TUIs |
-| [Dank Jobs](https://github.com/ianptkcs/dankjobs) | Go · Bubbletea | TUI to browse/manage jobs scheduled as systemd user timers |
+| [tabelhajobs](https://github.com/TAbelhaDev/tabelhajobs) | Go · Bubbletea | TUI (binary `tajobs`) to browse/manage jobs scheduled as systemd user timers |
 | [tabelharadar](https://github.com/TAbelhaDev/tabelharadar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
 | [tabelhakanban](https://github.com/TAbelhaDev/tabelhakanban) | Go · Bubbletea | Kanban TUI over plain markdown files - each card is a .md, each column a folder |
 | [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
 | [tabelhascaffold](https://github.com/TAbelhaDev/tabelhascaffold) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
 | [C-MAPSS RUL](https://github.com/ianptkcs/cmapss-rul) | Python · scikit-learn | Remaining Useful Life prediction for NASA C-MAPSS turbofan engines (Random Forest baseline) |
-| [CPDQ ENEM](https://github.com/ianptkcs/cpdq) | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course |
+| [CPDQ ENEM](https://github.com/CPDQ/material) | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course |
 
 > 🎲 **Currently building (hobby):** the *TAbelhaRPGDK* tabletop RPG - a Typst-typeset rulebook system with custom class archetypes, a rules engine, and a companion web platform for character/campaign management.
 

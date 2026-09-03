@@ -45,14 +45,11 @@
 
 | Project | Stack | What it does |
 |---|---|---|
+| [tabelhafin](https://github.com/TAbelhaDev/tabelhafin) | SvelteKit · Cloudflare · Pluggy | Personal finance app syncing bank + investment accounts via Open Finance, with envelope encryption and LGPD-compliant data handling |
 | [tabelhacal](https://github.com/TAbelhaDev/tabelhacal) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
 | [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui) | Svelte 5 · TypeScript | Shared design system (Catppuccin) + component library for my web apps |
-| [tabelhatuiui](https://github.com/TAbelhaDev/tabelhatuiui) | Go · Bubbletea | Shared chrome, layout helpers and the `ipc` convention powering my TUIs |
-| [tabelhajobs](https://github.com/TAbelhaDev/tabelhajobs) | Go · Bubbletea | TUI (binary `tajobs`) to browse/manage jobs scheduled as systemd user timers |
 | [tabelharadar](https://github.com/TAbelhaDev/tabelharadar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
-| [tabelhakanban](https://github.com/TAbelhaDev/tabelhakanban) | Go · Bubbletea | Kanban TUI over plain markdown files - each card is a .md, each column a folder |
 | [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
-| [tabelhascaffold](https://github.com/TAbelhaDev/tabelhascaffold) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
 | [C-MAPSS RUL](https://github.com/ianptkcs/cmapss-rul) | Python · scikit-learn | Remaining Useful Life prediction for NASA C-MAPSS turbofan engines (Random Forest baseline) |
 | [CPDQ ENEM](https://github.com/CPDQ/material) | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course |
 

@@ -50,10 +50,9 @@
 | [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui) | Svelte 5 · TypeScript | Shared design system (Catppuccin) + component library for my web apps |
 | [tabelharadar](https://github.com/TAbelhaDev/tabelharadar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
 | [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
-| [C-MAPSS RUL](https://github.com/ianptkcs/cmapss-rul) | Python · scikit-learn | Remaining Useful Life prediction for NASA C-MAPSS turbofan engines (Random Forest baseline) |
+| [tabelhascaffold](https://github.com/TAbelhaDev/tabelhascaffold) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
-
-> 🎲 **Currently building (hobby):** the *TAbelhaRPGDK* tabletop RPG - a Typst-typeset rulebook system with custom class archetypes, a rules engine, and a companion web platform for character/campaign management.
+| TAbelhaRPGDK *(private)* | Typst · SvelteKit | Tabletop RPG rulebook system - Typst-typeset, custom class archetypes, a rules engine, and a companion web platform for character/campaign management |
 
 ---
 
@@ -63,7 +62,9 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,svelte,angular,react,nextjs,tailwind,sass&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=py,django,nodejs,bun,postgres,firebase,linux,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,django,go,nodejs,bun,postgres,firebase,cloudflare,linux,git&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst" />
 
 </div>
 

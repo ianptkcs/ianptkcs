@@ -60,11 +60,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,svelte,angular,react,nextjs,tailwind,sass&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,svelte,angular,react,nextjs,tailwind&perline=8" />
 <br/>
 <img src="https://skillicons.dev/icons?i=py,django,go,nodejs,bun,postgres,firebase,cloudflare,linux,git&perline=8" />
-<br/>
-<img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst" />
 
 </div>
 

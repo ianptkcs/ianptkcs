@@ -51,7 +51,7 @@
 | [tabelharadar](https://github.com/TAbelhaDev/tabelharadar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
 | [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
 | [C-MAPSS RUL](https://github.com/ianptkcs/cmapss-rul) | Python · scikit-learn | Remaining Useful Life prediction for NASA C-MAPSS turbofan engines (Random Forest baseline) |
-| [CPDQ ENEM](https://github.com/CPDQ/material) | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course |
+| CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
 
 > 🎲 **Currently building (hobby):** the *TAbelhaRPGDK* tabletop RPG - a Typst-typeset rulebook system with custom class archetypes, a rules engine, and a companion web platform for character/campaign management.
 

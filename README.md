@@ -50,7 +50,7 @@
 | [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui) | Svelte 5 · TypeScript | Shared design system (Catppuccin) + component library for my web apps |
 | [tabelharadar](https://github.com/TAbelhaDev/tabelharadar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
 | [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
-| [tabelhascaffold](https://github.com/TAbelhaDev/tabelhascaffold) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
+| [tabelhascaff](https://github.com/TAbelhaDev/tabelhascaff) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
 | TAbelhaRPGDK *(private)* | Typst · SvelteKit | Tabletop RPG rulebook system - Typst-typeset, custom class archetypes, a rules engine, and a companion web platform for character/campaign management |
 

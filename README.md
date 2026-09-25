@@ -52,6 +52,7 @@
 | [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
 | [tabelhascaff](https://github.com/TAbelhaDev/tabelhascaff) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
+| Bernoulli Bot *(private)* | TypeScript · Cloudflare Workers · D1 · Telegram | Automates a real workflow at Colégio Bernoulli, where I tutor: weekly Telegram check-ins with tutors about their Q&A sessions, stored in D1 and synced to the team's Google Sheets |
 | TAbelhaRPGDK *(private)* | Typst · SvelteKit | Tabletop RPG rulebook system - Typst-typeset, custom class archetypes, a rules engine, and a companion web platform for character/campaign management |
 
 ---

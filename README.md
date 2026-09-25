@@ -21,7 +21,7 @@
 
 ### 🏢 Organizations
 
-**[TAbelhaDev](https://github.com/TAbelhaDev)** - my open-source org: personal tools and apps that share a common web design system and a set of Bubble Tea TUI conventions (see Featured Projects below for what's actually in it).
+**[TAbelha](https://github.com/TAbelha)** - my products org: TAbelhaFin, TAbelhaWhisper and TAbelhaRPGDK (see Featured Projects below). The older [TAbelhaDev](https://github.com/TAbelhaDev) org is archived.
 
 **[CPDQ](https://github.com/CPDQ)** - Cursinho Popular Dom Quixote, a free university-entrance prep course where I volunteer as a math teacher. I also maintain the course's [material](https://github.com/CPDQ/material) repo (see Featured Projects below).
 
@@ -45,15 +45,11 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [tabelhafin](https://github.com/TAbelhaDev/tabelhafin) | SvelteKit · Cloudflare · Pluggy | Personal finance app syncing bank + investment accounts via Open Finance, with envelope encryption and LGPD-compliant data handling |
-| [tabelhacal](https://github.com/TAbelhaDev/tabelhacal) | SvelteKit · Cloudflare · LLM | Natural-language AI calendar assistant with automatic cost tracking |
-| [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui) | Svelte 5 · TypeScript | Shared design system (Catppuccin) + component library for my web apps |
-| [tabelharadar](https://github.com/TAbelhaDev/tabelharadar) | Go · Bubbletea | TUI to monitor local repo git health: WIP, unmerged/unpushed work, missing remotes |
-| [tabelhaos](https://github.com/TAbelhaDev/tabelhaos) | Bash · archiso | Arch Linux migration installer, tested in QEMU with a bootable ISO |
-| [tabelhascaff](https://github.com/TAbelhaDev/tabelhascaff) | Go · CLI | Injects CI/release workflows, issue/PR templates, CONTRIBUTING, LICENSE, CHANGELOG and badges into new Go repos |
+| [TAbelhaFin](https://github.com/TAbelha/tabelhafin) | SvelteKit · Cloudflare Workers · D1 · Open Finance | Personal finance app that pulls Nubank and XP data via Open Finance (Pluggy), categorizes spending with AI and writes a monthly narrative report |
+| [TAbelhaWhisper](https://github.com/TAbelha/tabelhawhisper) | Python · faster-whisper · QML | Voice dictation for DankMaterialShell on niri: press a key, speak, and the text lands in your clipboard - 100% local transcription, floating pill with wave bars and a history widget |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
 | Bernoulli Bot *(private)* | TypeScript · Cloudflare Workers · D1 · Telegram | Automates a real workflow at Colégio Bernoulli, where I tutor: weekly Telegram check-ins with tutors about their Q&A sessions, stored in D1 and synced to the team's Google Sheets |
-| TAbelhaRPGDK *(private)* | Typst · SvelteKit | Tabletop RPG rulebook system - Typst-typeset, custom class archetypes, a rules engine, and a companion web platform for character/campaign management |
+| TAbelhaRPGDK *(private)* | Typst · SvelteKit · Cloudflare Workers | Modular tabletop RPG development kit: a system-agnostic core with pluggable modules, a data-driven Typst rulebook and a companion web platform |
 
 ---
 

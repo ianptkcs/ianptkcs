@@ -49,7 +49,7 @@
 | [TAbelhaWhisper](https://github.com/TAbelha/tabelhawhisper) | Python · faster-whisper · QML | Voice dictation for DankMaterialShell on niri: press a key, speak, and the text lands in your clipboard - 100% local transcription, floating pill with wave bars and a history widget |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
 | Bernoulli Bot *(private)* | TypeScript · Cloudflare Workers · D1 · Telegram | Automates a real workflow at Colégio Bernoulli, where I tutor: weekly Telegram check-ins with tutors about their Q&A sessions, stored in D1 and synced to the team's Google Sheets |
-| TAbelhaRPGDK *(private)* | Typst · SvelteKit · Cloudflare Workers | My own tabletop RPG system as a modular design kit: a d20 success-counting core, six Typst books, and a web platform for campaigns and PDF downloads |
+| TAbelhaRPGDK *(private)* | Typst · Python | My own tabletop RPG system as a modular design kit: a d20 success-counting core and six Typst-typeset books, with JSON-driven item tables and a math appendix on the exact success probabilities |
 
 ---
 

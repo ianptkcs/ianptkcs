@@ -45,11 +45,11 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [TAbelhaFin](https://github.com/TAbelha/tabelhafin) | SvelteKit · Cloudflare Workers · D1 · Open Finance | Personal finance app that pulls Nubank and XP data via Open Finance (Pluggy), categorizes spending with AI and writes a monthly narrative report |
+| [TAbelhaFin](https://github.com/TAbelha/tabelhafin) | SvelteKit · Cloudflare Workers · D1 · Open Finance | Personal finance app that syncs accounts, cards, transactions and investment balances from any bank connected through Meu Pluggy, with BYOK AI categorization and encrypted credentials |
 | [TAbelhaWhisper](https://github.com/TAbelha/tabelhawhisper) | Python · faster-whisper · QML | Voice dictation for DankMaterialShell on niri: press a key, speak, and the text lands in your clipboard - 100% local transcription, floating pill with wave bars and a history widget |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
 | Bernoulli Bot *(private)* | TypeScript · Cloudflare Workers · D1 · Telegram | Automates a real workflow at Colégio Bernoulli, where I tutor: weekly Telegram check-ins with tutors about their Q&A sessions, stored in D1 and synced to the team's Google Sheets |
-| TAbelhaRPGDK *(private)* | Typst · SvelteKit · Cloudflare Workers | Modular tabletop RPG development kit: a system-agnostic core with pluggable modules, a data-driven Typst rulebook and a companion web platform |
+| TAbelhaRPGDK *(private)* | Typst · SvelteKit · Cloudflare Workers | My own tabletop RPG system as a modular design kit: a d20 success-counting core, six Typst books, and a web platform for campaigns and PDF downloads |
 
 ---
 

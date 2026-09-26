@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:CC3333&height=210&section=header&text=Hi,%20I'm%20Ian%20Soares%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20from%20Brazil&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=CC3333&center=true&vCenter=true&width=700&lines=Angular+%2B+Django+%2B+FastAPI+%40+Ensino+%C3%81gil;SvelteKit+%2B+Node%2FHono+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=CC3333&center=true&vCenter=true&width=700&lines=Angular+%2B+Django+%40+Ensino+%C3%81gil;Svelte+%2B+Hono+%40+WIV;Linux+%2F+Niri+%2F+Wayland+enthusiast;Math%2C+Logic+%26+Probability+nerd)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ianptkcs&label=Profile%20views&color=cc3333&style=flat-square" alt="ianptkcs" />
 
@@ -30,14 +30,13 @@
 ### 💼 Experience
 
 **[Ensino Agil](https://ensinoagil.com.br)** - ed-tech platform (exams, question banks, student PWA)
-- Full-stack: Angular/TypeScript frontend + Django backend, multi-tenant architecture, Firebase
-- Checkout & subscription flows, including a dedicated FastAPI/PostgreSQL/Redis microservice with payment gateway integration
-- Auth/role-permission systems and native Android/iOS app packaging (WebView shells) for white-label clients
+- Leading the platform's modernization: new features and UI/UX updates across Angular/PrimeNG and Django, 250+ merged PRs
+- Student features (gamified study trail, daily tasks, mock tests, flashcards, forum) and multi-tenant PWA customization for white-label clients
+- Checkout work (plans, gateway fees, checkout builder, Pagar.me) and Google Play publishing automation
 
 **[WIV](https://wiv.com.br/)** - Blip, a conversational/chatbot platform
-- Plugins integrating the platform with third-party CRM & marketing tools, plus internal browser extensions
-- Maintain an SDK (pnpm monorepo) including an MCP server package for AI-agent tooling
-- Built chat-commerce (SvelteKit + Hono/Drizzle) and app-marketplace (SvelteKit + Hono) products for the platform
+- Extensions and integrations connecting Blip to CRMs and channels (HubSpot, Salesforce, Zendesk, Dynamics 365, WhatsApp) in a TypeScript monorepo (Svelte, Hono, Turborepo)
+- Reliability work: end-to-end tests, error monitoring and automated Chrome Web Store deploys
 
 ---
 

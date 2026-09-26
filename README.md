@@ -91,7 +91,7 @@
   <a href="mailto:ianptkcs@gmail.com"><img src="https://img.shields.io/badge/Email-ianptkcs%40gmail.com-cc3333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ianptkcs-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ianptkcs" target="_blank"><img src="https://img.shields.io/badge/Instagram-ianptkcs-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://portfolio.ianptkcs-023.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-cc3333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-1vz.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-cc3333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:CC3333&height=100&section=footer" width="100%"/>

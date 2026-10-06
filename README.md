@@ -46,6 +46,7 @@
 |---|---|---|
 | [TAbelhaFin](https://github.com/TAbelha/tabelhafin) | SvelteKit · Cloudflare Workers · D1 · Open Finance | Personal finance app that syncs accounts, cards, transactions and investment balances from any bank connected through Meu Pluggy, with BYOK AI categorization and encrypted credentials |
 | [TAbelhaWhisper](https://github.com/TAbelha/tabelhawhisper) | Python · faster-whisper · QML | Voice dictation for DankMaterialShell on niri: press a key, speak, and the text lands in your clipboard - 100% local transcription, floating pill with wave bars and a history widget |
+| [TAbelhaMem](https://github.com/TAbelha/tabelhamem) | TypeScript · OpenTUI · OpenCode plugins | Shared memory bridge between Claude Code and OpenCode: symlinked markdown store, session-capturing plugin with token/cost digests, scriptable IPC and an interactive terminal UI |
 | CPDQ ENEM | Python · Typst | ENEM math analysis (2018-2025) + didactic-material generator for a prep entrance-exam course I volunteer at |
 | Bernoulli Bot *(private)* | TypeScript · Cloudflare Workers · D1 · Telegram | Automates a real workflow at Colégio Bernoulli, where I tutor: weekly Telegram check-ins with tutors about their Q&A sessions, stored in D1 and synced to the team's Google Sheets |
 | TAbelhaRPGDK *(private)* | Typst · Python | My own tabletop RPG system as a modular design kit: a d20 success-counting core and six Typst-typeset books, with JSON-driven item tables and a math appendix on the exact success probabilities |
